@@ -1,0 +1,12 @@
+# Sensitive files
+.env
+.env.*
+config.local.json
+
+# Temporary files
+*.log
+.DS_Store
+
+# Build files
+dist/
+build/
